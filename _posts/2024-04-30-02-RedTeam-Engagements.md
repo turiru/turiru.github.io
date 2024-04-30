@@ -1,5 +1,6 @@
 ---
-title: 03 - Red Team Engagements
+title: 02 - Red Team Engagements
+categories: [Red-Teaming, Red-Teaming-Fundamentals, Red-Team-Fundamentals]
 updated: 2023-05-13 13:35:39Z
 created: 2023-05-13 13:17:30Z
 ---
