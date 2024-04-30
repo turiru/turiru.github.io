@@ -1,5 +1,5 @@
 ---
-title: 04 - Teams and their functions in a red team engagement
+title: 03 - Teams and their functions in a red team engagement
 categories: [Red-Teaming, Red-Teaming-Fundamentals, Red-Team-Fundamentals]
 updated: 2023-05-15 10:37:15Z
 created: 2023-05-13 13:36:49Z
