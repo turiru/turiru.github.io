@@ -1,6 +1,7 @@
 ---
 title: 05 - Red Team Engagements - Introduction
 categories: [Red-Teaming, Red-Team-Engagements]
+author: Gatura
 updated: 2023-12-08 10:31:48Z
 created: 2023-12-03 18:10:38Z
 ---

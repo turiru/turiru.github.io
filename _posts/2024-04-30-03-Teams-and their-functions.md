@@ -1,6 +1,7 @@
 ---
 title: 03 - Teams and their functions in a red team engagement
 categories: [Red-Teaming, Red-Team-Fundamentals, The-Fundamentals]
+author: Gatura
 updated: 2023-05-15 10:37:15Z
 created: 2023-05-13 13:36:49Z
 ---

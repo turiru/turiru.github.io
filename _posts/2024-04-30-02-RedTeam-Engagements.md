@@ -1,6 +1,7 @@
 ---
 title: 02 - Red Team Engagements
 categories: [Red-Teaming, Red-Team-Fundamentals, The-Fundamentals]
+author: Gatura
 updated: 2023-05-13 13:35:39Z
 created: 2023-05-13 13:17:30Z
 ---

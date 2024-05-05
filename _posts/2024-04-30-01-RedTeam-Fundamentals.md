@@ -1,6 +1,7 @@
 ---
 title: 01 - Red Team Fundamentals
 categories: [Red-Teaming, Red-Team-Fundamentals, The-Fundamentals]
+author: Gatura
 updated: 2024-04-03 08:30:36Z
 created: 2023-05-13 12:53:13Z
 ---

@@ -1,6 +1,7 @@
 ---
 title: 04 - Red Team Engagement Structure
 categories: [Red-Teaming, Red-Team-Fundamentals, The-Fundamentals]
+author: Gatura
 updated: 2024-03-11 05:41:25Z
 created: 2023-05-15 10:37:30Z
 ---
