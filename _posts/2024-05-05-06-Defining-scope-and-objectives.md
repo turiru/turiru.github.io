@@ -1,5 +1,5 @@
 ---
-title: 06 - Red Team Engagements - Introduction
+title: 06 - Defining Scope and Objectives
 categories: [Red-Teaming, Red-Team-Engagements]
 author: Gatura
 updated: 2023-12-08 10:31:48Z
@@ -16,7 +16,6 @@ When assessing the objectives stated by the client during planning, we will need
 Engagements can vary from internal penetration assessment to a focused adversary emulation which would go further to define a specific threat actor group or APT. 
 Selecting a threat actor can be based on the industry of the client for example finacial institutions would select [APT38](https://web.archive.org/web/20230325143301/https://content.fireeye.com/apt/rpt-apt38)
 
-![Screenshot 2023-12-08 at 17.13.33.png](../../../_resources/Screenshot%202023-12-08%20at%2017.13.33-1.png)
 
 Internal network test will be less focused on threat groups and focus on general TTPs
 
